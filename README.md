@@ -1,3 +1,8 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+
 # viimeisetkiusaukset
 Viimeiset kiusaukset -näytelmä Kuhmossa
 
@@ -8,3 +13,7 @@ Viimeiset kiusaukset -näytelmä Kuhmossa
 
 
 \(\frac12\)
+
+
+</body>
+</html>
